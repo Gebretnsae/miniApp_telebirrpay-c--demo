@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z/amrOsAWR2Y0EVeXniYvc9HMcNNTrfRTHPdi3eCoorw4rbmsL1zKd8U/3iHPnIOQSovzcoVG9dwfmhbRzSwmQ==",
+  "success": true,
+  "projectFilePath": "D:\\ET\\Telebirr Joined on 09 Oct 2023\\Mini_App_SupperApp\\mini-app-demo\\telebirrpay-c#-demo\\telebirrpay-c#-demo\\telebirrpay\\telebirrpay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gtnsae.gmeskel\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BouncyCastle 1.8.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
